@@ -13,7 +13,7 @@ def up_or_lower(string: str, flag=0) -> str:
         return string.upper()
     else:
         return string.lower()
-    # TODO: Azat aga, accept eteniz, otinem.
+    # TODO: Harow, ne budu uvolnyat'.
 
 
 if __name__ == '__main__':
